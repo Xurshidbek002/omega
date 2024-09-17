@@ -12,11 +12,10 @@
   margin: 0 auto;
 }
 
-.header .container {
+.header {
   margin: 0 auto;
   background: url(../images/header-bg.png) no-repeat;
-  background-size: contain;
-  background-origin: border-box;
+  background-size: cover;
   background-repeat: no-repeat;
   padding-bottom: 115px;
   /* padding: 20px; */
